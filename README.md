@@ -3,8 +3,8 @@
 ---
 
 First "MERN" app, 
-JavaScript
-Node.js - Express
-MongoDB - Mongoose
+JavaScript;
+Node.js - Express;
+MongoDB - Mongoose;
 
 ---
